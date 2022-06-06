@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">paging-mvvm-hilt-coroutine</string>
+    <string name="no_result">No Result Found.</string>
+    <string name="retry">Retry</string>
+    <string name="not_load">Result could not be loaded.</string>
+    <string name="try_again">Try again!..</string>
+</resources>
